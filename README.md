@@ -7,3 +7,4 @@ To build:
 Pre-built binary located at:
   bin/debug/mac/MlbSlideshow.app/Contents/MacOS/MlbSlideshow
   
+Code that is not cocos2d boilerplate can be found in the Classes subdirectory
