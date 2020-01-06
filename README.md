@@ -1,5 +1,5 @@
 # MlbSlideshow
-cocos2d project with a slideshow of MLB assets
+cocos2d-x project with a slideshow of MLB assets
 
 To build:
 * install cocos2d-x
