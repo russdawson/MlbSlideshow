@@ -1,4 +1,4 @@
-# MlbSlideshow
+# MlbSlideshow - Interview coding assignment
 cocos2d-x project with a slideshow of MLB assets
 
 To build:
